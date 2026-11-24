@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ad": "Başlangıç Noktası",
+        "aciklama": "Araç kalkış konumu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.723500, 40.991200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ad": "Durak 1",
+        "aciklama": "Yolcu alma noktası"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.724850, 40.992100]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ad": "Durak 2",
+        "aciklama": "Yolcu indirme noktası"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.726100, 40.990800]
+      }
+    }
+  ]
+}
